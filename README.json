@@ -1,0 +1,626 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hermes Agent",
+          "description": "(GitHub, Nous Research X, Teknium X) - MIT-licensed autonomous agent from Nous Research with persistent memory, self-created skills, scheduled automations, subagents, sandboxed execution, and messaging gateways.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T05:18:42Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 230256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orca",
+          "description": "(GitHub) - Worktree-based IDE for running Claude Code, Codex, OpenCode, and other coding agents side by side across isolated git branches with review and PR workflow support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:22:27Z",
+            "owner": "stablyai",
+            "repo": "orca",
+            "stars": 45113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oh-my-codex",
+          "description": "(Website, npm) - MIT-licensed workflow layer for OpenAI Codex CLI with stronger default sessions, reusable skills, native hooks, HUD/status surfaces, project guidance, and team-style execution commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:19:47Z",
+            "owner": "Yeachan-Heo",
+            "repo": "oh-my-codex",
+            "stars": 32651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoClaw",
+          "description": "(GitHub, Docs) - MIT-licensed personal AI assistant that runs Claude agents in isolated containers, connects to chat channels, keeps memory, schedules work, and uses skills as git branches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:07:10Z",
+            "owner": "nanocoai",
+            "repo": "nanoclaw",
+            "stars": 30511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vibe Kanban",
+          "description": "(GitHub) - Apache-2.0 Kanban workspace for planning, running, reviewing, previewing, and shipping parallel coding-agent work across Claude Code, Codex, Gemini CLI, OpenCode, and related agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-24T09:17:34Z",
+            "owner": "BloopAI",
+            "repo": "vibe-kanban",
+            "stars": 27783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superset",
+          "description": "(GitHub) - Local code editor and control plane for parallel CLI coding agents across isolated git worktrees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:21:36Z",
+            "owner": "superset-sh",
+            "repo": "superset",
+            "stars": 12896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sandcastle",
+          "description": "(npm) - MIT-licensed TypeScript library and CLI for orchestrating AI coding agents in isolated sandboxes with branch strategies, hooks, logs, templates, and merge-back workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T20:16:27Z",
+            "owner": "mattpocock",
+            "repo": "sandcastle",
+            "stars": 7387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Agent Governance Toolkit",
+          "description": "MIT-licensed runtime governance toolkit for AI agents with deterministic policy enforcement, zero-trust identity, execution sandboxing, SRE controls, and compliance checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T05:17:10Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squad",
+          "description": "(GitHub) - Alpha GitHub Copilot-based agent team system with repo-native specialist agents, persistent memory, coordinator routing, parallel work, and CLI/SDK packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:16:11Z",
+            "owner": "bradygaster",
+            "repo": "squad",
+            "stars": 3091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helmor",
+          "description": "(GitHub, Releases) - Apache-2.0 local-first IDE and workbench for orchestrating Claude Code, Codex, and other coding agents across worktrees through planning, running, review, testing, merge, and shipping loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:16:44Z",
+            "owner": "dohooo",
+            "repo": "helmor",
+            "stars": 1285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Swarm",
+          "description": "(GitHub, Docs, Releases) - MIT-licensed local mission-control center for launching, monitoring, approving, and coordinating multiple AI agents in parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:07:02Z",
+            "owner": "openswarm-ai",
+            "repo": "openswarm",
+            "stars": 797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Office Suite",
+          "description": "(GitHub, Manpo X) - Apache-2.0 self-hosted office suite where agents collaborate with humans on docs, databases, slides, and flowcharts through MCP, contextual comments, version history, and traceable edits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-03T11:33:56Z",
+            "owner": "manpoai",
+            "repo": "AgentOfficeSuite",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIDJUA",
+          "description": "(GitHub) - Governance-first AI agent orchestration platform with pre-action controls, budgets, approvals, classifications, and audit trails.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T00:18:04Z",
+            "owner": "GoetzKohlberg",
+            "repo": "sidjua",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Veto",
+          "description": "(GitHub) - Apache-2.0 AI agent authorization layer that intercepts tool calls before execution, evaluates policy, routes approvals, and records audit evidence. Veto Cloud is commercial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T07:20:15Z",
+            "owner": "PlawIO",
+            "repo": "veto",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Latest Additions"
+    },
+    {
+      "description": "Tools for running multiple coding agents simultaneously, usually with git worktree isolation, terminal/session management, review surfaces, or issue-to-agent routing.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multica",
+          "description": "(GitHub) - Managed agents platform where coding agents act like teammates, take issues, and reuse shared skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-14T05:17:51Z",
+            "owner": "multica-ai",
+            "repo": "multica",
+            "stars": 45888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orca",
+          "description": "(GitHub) - Desktop environment for running multiple coding agents safely in parallel across worktrees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:22:27Z",
+            "owner": "stablyai",
+            "repo": "orca",
+            "stars": 45113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oh-my-codex",
+          "description": "(Website, npm) - Workflow layer for OpenAI Codex CLI with reusable skills, native hooks, HUD/status surfaces, project guidance, and / execution commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:19:47Z",
+            "owner": "Yeachan-Heo",
+            "repo": "oh-my-codex",
+            "stars": 32651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vibe Kanban",
+          "description": "(GitHub) - Kanban workspace for planning issues, running coding agents in branches with terminals and dev servers, reviewing diffs, previewing apps, opening pull requests, and merging finished work.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-24T09:17:34Z",
+            "owner": "BloopAI",
+            "repo": "vibe-kanban",
+            "stars": 27783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gas Town",
+          "description": "(GitHub) - Multi-agent workspace manager for Claude Code, GitHub Copilot, Codex, Gemini, and other coding agents with persistent work tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:48:44Z",
+            "owner": "gastownhall",
+            "repo": "gastown",
+            "stars": 17607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Superset",
+          "description": "(GitHub) - Local code editor and control plane for parallel CLI coding agents across isolated git worktrees.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:21:36Z",
+            "owner": "superset-sh",
+            "repo": "superset",
+            "stars": 12896
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sandcastle",
+          "description": "(npm) - MIT-licensed TypeScript library and CLI for orchestrating AI coding agents in isolated sandboxes with branch strategies, hooks, logs, templates, and merge-back workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T20:16:27Z",
+            "owner": "mattpocock",
+            "repo": "sandcastle",
+            "stars": 7387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Helmor",
+          "description": "(GitHub) - Apache-2.0 local-first IDE and workbench for orchestrating Claude Code, Codex, and other coding agents across worktrees through planning, running, review, testing, merge, and shipping loops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T06:16:44Z",
+            "owner": "dohooo",
+            "repo": "helmor",
+            "stars": 1285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Swarm",
+          "description": "(GitHub, Docs) - MIT-licensed local mission-control center for launching, monitoring, approving, and coordinating multiple AI agents in parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:07:02Z",
+            "owner": "openswarm-ai",
+            "repo": "openswarm",
+            "stars": 797
+          }
+        }
+      ],
+      "title": "Parallel Coding-Agent Runners"
+    },
+    {
+      "description": "Frameworks and product surfaces for creating agents, teams, workflows, chatflows, agent apps, or production agent runtimes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenClaw",
+          "description": "(GitHub) - Open-source personal AI assistant software built around chat, persistent context, skills, and execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:22:27Z",
+            "owner": "openclaw",
+            "repo": "openclaw",
+            "stars": 386227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes Agent",
+          "description": "(GitHub) - MIT-licensed autonomous agent from Nous Research with persistent memory, self-created skills, scheduled automations, subagents, sandboxed execution, and messaging gateways.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T05:18:42Z",
+            "owner": "NousResearch",
+            "repo": "hermes-agent",
+            "stars": 230256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dify",
+          "description": "(GitHub) - Agentic workflow builder that combines workflows, chatflows, apps, and knowledge systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:22:19Z",
+            "owner": "langgenius",
+            "repo": "dify",
+            "stars": 152402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flowise",
+          "description": "(GitHub) - Visual builder for AI agents and orchestration flows.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T12:38:19Z",
+            "owner": "FlowiseAI",
+            "repo": "Flowise",
+            "stars": 55367
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agno",
+          "description": "(GitHub) - Production runtime for agentic software with agents, teams, workflows, and AgentOS services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T23:40:46Z",
+            "owner": "agno-agi",
+            "repo": "agno",
+            "stars": 41700
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NanoClaw",
+          "description": "(GitHub, Docs) - MIT-licensed personal AI assistant that runs Claude agents in isolated containers, connects to chat channels, keeps memory, schedules work, and uses skills as git branches.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:07:10Z",
+            "owner": "nanocoai",
+            "repo": "nanoclaw",
+            "stars": 30511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sim",
+          "description": "(GitHub) - Open-source AI agent platform for building agents with integrations, workflows, knowledge bases, and docs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T04:03:47Z",
+            "owner": "simstudioai",
+            "repo": "sim",
+            "stars": 29419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mastra",
+          "description": "(GitHub) - TypeScript framework for agents, graph-based workflows, MCP servers, evals, observability, and production AI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T04:34:48Z",
+            "owner": "mastra-ai",
+            "repo": "mastra",
+            "stars": 27187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cabinet",
+          "description": "(GitHub) - AI-first knowledge base where files live on disk and agents help with execution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T12:52:15Z",
+            "owner": "cabinetai",
+            "repo": "cabinet",
+            "stars": 2806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwarmClaw",
+          "description": "(GitHub) - Self-hosted AI agent runtime for autonomous agents, delegated work, schedules, provider management, and chat-platform connectors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T20:58:13Z",
+            "owner": "swarmclawai",
+            "repo": "swarmclaw",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Office Suite",
+          "description": "(GitHub, Manpo X) - Self-hosted office suite where agents collaborate with humans on docs, databases, slides, and flowcharts through MCP, contextual comments, version history, and traceable edits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-03T11:33:56Z",
+            "owner": "manpoai",
+            "repo": "AgentOfficeSuite",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIDJUA",
+          "description": "(GitHub) - Governance-first AI agent orchestration platform where policy, approval, budget, classification, and audit checks run before agent actions execute.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-21T00:18:04Z",
+            "owner": "GoetzKohlberg",
+            "repo": "sidjua",
+            "stars": 26
+          }
+        }
+      ],
+      "title": "Multi-Agent Platforms And Builders"
+    },
+    {
+      "description": "Systems where the central object is the team, company, room, protocol, role, goal, job, or handoff layer between agents.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Paperclip",
+          "description": "(GitHub) - Open-source orchestration for zero-human companies, centered on AI employees, goals, and jobs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T05:19:11Z",
+            "owner": "paperclipai",
+            "repo": "paperclip",
+            "stars": 78066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrewAI",
+          "description": "(GitHub) - Multi-agent system organized around specialized crews, roles, and delegation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T01:27:38Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Squad",
+          "description": "(GitHub) - Alpha GitHub Copilot-based system where specialist agents live in the repo, keep memory, share decisions, route work through a coordinator, and run in parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:16:11Z",
+            "owner": "bradygaster",
+            "repo": "squad",
+            "stars": 3091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Culture",
+          "description": "(GitHub) - Coordination-oriented system with rooms, protocol docs, agent lifecycle patterns, and multiple clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T11:05:25Z",
+            "owner": "agentculture",
+            "repo": "culture",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Coordination And Team Systems"
+    },
+    {
+      "description": "Policy, permission, approval, budget, trust, reputation, settlement, and audit layers that sit between agent intent and execution. These are not orchestrators themselves; they govern actions routed through an orchestrator, framework, coding agent, MCP server, marketplace, exchange, or application runtime.",
+      "items": [],
+      "title": "Governance And Enforcement"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft Agent Governance Toolkit",
+          "description": "MIT-licensed runtime governance toolkit for AI agents with deterministic policy enforcement, zero-trust identity, execution sandboxing, SRE controls, and compliance checks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-14T05:17:10Z",
+            "owner": "microsoft",
+            "repo": "agent-governance-toolkit",
+            "stars": 5906
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Veto",
+          "description": "(GitHub) - Apache-2.0 authorization layer for AI agent tool calls, with TypeScript and Python SDKs, YAML policies, approval routing, and audit logs. Veto Cloud is commercial.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T07:20:15Z",
+            "owner": "PlawIO",
+            "repo": "veto",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Open and open-core governance tools"
+    },
+    {
+      "description": "This repo contains the Awesome Multi-Agent Orchestrators list and a small Astro site for .\nMost editorial updates should happen in , which is the source of truth for directory entries, rank order, notes, tags, and links.\nNews updates should happen in . Directory entries and news posts are intentionally separate: directory metadata describes the player; news Markdown describes a dated update about that player.",
+      "items": [],
+      "title": "Local Development"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T05:23:00.138Z",
+    "original_repository": "Agent-Analytics/awesome-multi-agent-orchestrators",
+    "original_repository_sha": "915bd674f9c23b9d61632cc166abbf210abec95d",
+    "enhanced_repository": "enhansome/enhansome-multi-agent-orchestrators",
+    "enhanced_repository_description": null,
+    "title": "Awesome Multi-Agent Orchestrators with stars"
+  }
+}

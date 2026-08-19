@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-19T04:19:28Z",
+            "last_commit": "2026-08-19T10:40:40Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 232649
+            "stars": 232842
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1183888342,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:20:38Z",
+            "last_commit": "2026-08-19T09:30:27Z",
             "owner": "stablyai",
             "repo": "orca",
-            "stars": 48464
+            "stars": 48772
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148052330,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T03:42:29Z",
+            "last_commit": "2026-08-19T10:35:26Z",
             "owner": "Yeachan-Heo",
             "repo": "oh-my-codex",
-            "stars": 32733
+            "stars": 32740
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T23:14:38Z",
+            "last_commit": "2026-08-19T12:34:59Z",
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30546
+            "stars": 30550
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1002125012,
             "language": "Rust",
             "last_commit": "2026-04-24T09:17:34Z",
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27844
+            "stars": 27848
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1080370450,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:01:49Z",
+            "last_commit": "2026-08-19T10:11:45Z",
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 13056
+            "stars": 13078
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184397362,
             "language": "TypeScript",
             "last_commit": "2026-06-29T20:16:27Z",
             "owner": "mattpocock",
             "repo": "sandcastle",
-            "stars": 7485
+            "stars": 7495
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171111467,
             "language": "Python",
             "last_commit": "2026-08-19T02:50:48Z",
             "owner": "microsoft",
             "repo": "agent-governance-toolkit",
-            "stars": 6001
+            "stars": 6028
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1151205052,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:09:31Z",
             "owner": "bradygaster",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199028956,
             "language": "TypeScript",
             "last_commit": "2026-08-19T04:09:51Z",
             "owner": "dohooo",
@@ -150,8 +160,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181094269,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:17:59Z",
+            "last_commit": "2026-08-19T07:40:09Z",
             "owner": "openswarm-ai",
             "repo": "openswarm",
             "stars": 801
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1187690989,
             "language": "TypeScript",
             "last_commit": "2026-06-03T11:33:56Z",
             "owner": "manpoai",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171122397,
             "language": "TypeScript",
             "last_commit": "2026-04-21T00:18:04Z",
             "owner": "GoetzKohlberg",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126739707,
             "language": "TypeScript",
             "last_commit": "2026-06-18T07:20:15Z",
             "owner": "PlawIO",
@@ -212,11 +226,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1183888342,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:20:38Z",
+            "last_commit": "2026-08-19T09:30:27Z",
             "owner": "stablyai",
             "repo": "orca",
-            "stars": 48464
+            "stars": 48772
           }
         },
         {
@@ -226,11 +241,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1133707766,
             "language": "Go",
-            "last_commit": "2026-08-19T04:24:20Z",
+            "last_commit": "2026-08-19T12:21:08Z",
             "owner": "multica-ai",
             "repo": "multica",
-            "stars": 46736
+            "stars": 46812
           }
         },
         {
@@ -240,11 +256,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1148052330,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T03:42:29Z",
+            "last_commit": "2026-08-19T10:35:26Z",
             "owner": "Yeachan-Heo",
             "repo": "oh-my-codex",
-            "stars": 32733
+            "stars": 32740
           }
         },
         {
@@ -254,11 +271,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1002125012,
             "language": "Rust",
             "last_commit": "2026-04-24T09:17:34Z",
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27844
+            "stars": 27848
           }
         },
         {
@@ -268,11 +286,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117184424,
             "language": "Go",
             "last_commit": "2026-08-19T04:16:45Z",
             "owner": "gastownhall",
             "repo": "gastown",
-            "stars": 17665
+            "stars": 17668
           }
         },
         {
@@ -282,11 +301,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1080370450,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:01:49Z",
+            "last_commit": "2026-08-19T10:11:45Z",
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 13056
+            "stars": 13078
           }
         },
         {
@@ -296,11 +316,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1184397362,
             "language": "TypeScript",
             "last_commit": "2026-06-29T20:16:27Z",
             "owner": "mattpocock",
             "repo": "sandcastle",
-            "stars": 7485
+            "stars": 7495
           }
         },
         {
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1199028956,
             "language": "TypeScript",
             "last_commit": "2026-08-19T04:09:51Z",
             "owner": "dohooo",
@@ -324,8 +346,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1181094269,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:17:59Z",
+            "last_commit": "2026-08-19T07:40:09Z",
             "owner": "openswarm-ai",
             "repo": "openswarm",
             "stars": 801
@@ -344,11 +367,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:24:24Z",
+            "last_commit": "2026-08-19T12:41:40Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386690
+            "stars": 386765
           }
         },
         {
@@ -358,11 +382,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-19T04:19:28Z",
+            "last_commit": "2026-08-19T10:40:40Z",
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 232649
+            "stars": 232842
           }
         },
         {
@@ -372,11 +397,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:19:47Z",
+            "last_commit": "2026-08-19T12:36:07Z",
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 152858
+            "stars": 152896
           }
         },
         {
@@ -386,11 +412,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 621803253,
             "language": "TypeScript",
             "last_commit": "2026-08-13T12:38:19Z",
             "owner": "FlowiseAI",
             "repo": "Flowise",
-            "stars": 55380
+            "stars": 55381
           }
         },
         {
@@ -400,11 +427,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 488641606,
             "language": "Python",
-            "last_commit": "2026-08-19T01:53:47Z",
+            "last_commit": "2026-08-19T12:06:09Z",
             "owner": "agno-agi",
             "repo": "agno",
-            "stars": 41771
+            "stars": 41779
           }
         },
         {
@@ -414,11 +442,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T23:14:38Z",
+            "last_commit": "2026-08-19T12:34:59Z",
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30546
+            "stars": 30550
           }
         },
         {
@@ -428,11 +457,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 912559512,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T03:53:38Z",
+            "last_commit": "2026-08-19T08:15:23Z",
             "owner": "simstudioai",
             "repo": "sim",
-            "stars": 29432
+            "stars": 29433
           }
         },
         {
@@ -442,11 +472,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 839037098,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:22:59Z",
+            "last_commit": "2026-08-19T12:40:18Z",
             "owner": "mastra-ai",
             "repo": "mastra",
-            "stars": 27289
+            "stars": 27302
           }
         },
         {
@@ -456,11 +487,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1200101802,
             "language": "TypeScript",
             "last_commit": "2026-07-29T12:52:15Z",
             "owner": "cabinetai",
             "repo": "cabinet",
-            "stars": 2816
+            "stars": 2819
           }
         },
         {
@@ -470,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161242607,
             "language": "TypeScript",
             "last_commit": "2026-06-30T20:58:13Z",
             "owner": "swarmclawai",
@@ -484,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1187690989,
             "language": "TypeScript",
             "last_commit": "2026-06-03T11:33:56Z",
             "owner": "manpoai",
@@ -498,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1171122397,
             "language": "TypeScript",
             "last_commit": "2026-04-21T00:18:04Z",
             "owner": "GoetzKohlberg",
@@ -518,11 +553,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1170821064,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T04:04:19Z",
+            "last_commit": "2026-08-19T12:13:06Z",
             "owner": "paperclipai",
             "repo": "paperclip",
-            "stars": 78826
+            "stars": 78850
           }
         },
         {
@@ -532,11 +568,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710601088,
             "language": "Python",
-            "last_commit": "2026-08-19T03:46:41Z",
+            "last_commit": "2026-08-19T07:20:53Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57288
+            "stars": 57308
           }
         },
         {
@@ -546,6 +583,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1151205052,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:09:31Z",
             "owner": "bradygaster",
@@ -560,6 +598,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1186470444,
             "language": "Python",
             "last_commit": "2026-07-15T11:05:25Z",
             "owner": "agentculture",
@@ -572,52 +611,52 @@
     },
     {
       "description": "Policy, permission, approval, budget, trust, reputation, settlement, and audit layers that sit between agent intent and execution. These are not orchestrators themselves; they govern actions routed through an orchestrator, framework, coding agent, MCP server, marketplace, exchange, or application runtime.",
-      "items": [],
-      "title": "Governance And Enforcement"
-    },
-    {
-      "description": "",
       "items": [
         {
-          "node_type": "item",
-          "title": "Microsoft Agent Governance Toolkit",
-          "description": "MIT-licensed runtime governance toolkit for AI agents with deterministic policy enforcement, zero-trust identity, execution sandboxing, SRE controls, and compliance checks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T02:50:48Z",
-            "owner": "microsoft",
-            "repo": "agent-governance-toolkit",
-            "stars": 6001
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Veto",
-          "description": "(GitHub) - Apache-2.0 authorization layer for AI agent tool calls, with TypeScript and Python SDKs, YAML policies, approval routing, and audit logs. Veto Cloud is commercial.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-18T07:20:15Z",
-            "owner": "PlawIO",
-            "repo": "veto",
-            "stars": 14
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Microsoft Agent Governance Toolkit",
+              "description": "MIT-licensed runtime governance toolkit for AI agents with deterministic policy enforcement, zero-trust identity, execution sandboxing, SRE controls, and compliance checks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1171111467,
+                "language": "Python",
+                "last_commit": "2026-08-19T02:50:48Z",
+                "owner": "microsoft",
+                "repo": "agent-governance-toolkit",
+                "stars": 6028
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Veto",
+              "description": "(GitHub) - Apache-2.0 authorization layer for AI agent tool calls, with TypeScript and Python SDKs, YAML policies, approval routing, and audit logs. Veto Cloud is commercial.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1126739707,
+                "language": "TypeScript",
+                "last_commit": "2026-06-18T07:20:15Z",
+                "owner": "PlawIO",
+                "repo": "veto",
+                "stars": 14
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open and open-core governance tools"
         }
       ],
-      "title": "Open and open-core governance tools"
-    },
-    {
-      "description": "This repo contains the Awesome Multi-Agent Orchestrators list and a small Astro site for .\nMost editorial updates should happen in , which is the source of truth for directory entries, rank order, notes, tags, and links.\nNews updates should happen in . Directory entries and news posts are intentionally separate: directory metadata describes the player; news Markdown describes a dated update about that player.",
-      "items": [],
-      "title": "Local Development"
+      "title": "Governance And Enforcement"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:24:53.244Z",
+    "last_updated": "2026-08-19T12:43:14.223Z",
     "original_repository": "Agent-Analytics/awesome-multi-agent-orchestrators",
+    "original_repository_id": 1205236289,
     "original_repository_sha": "83077fcc149bfd2d106d2aa479d0e3f458d03aba",
     "enhanced_repository": "enhansome/enhansome-multi-agent-orchestrators",
     "enhanced_repository_description": null,

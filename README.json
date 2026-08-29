@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent that grows with you",
+            "homepage": "https://hermes-agent.nousresearch.com",
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-28T15:15:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:39:01Z",
+            "open_issues": 37204,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 237645
+            "stars": 237809,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "codex",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "nous-research",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -26,12 +45,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+            "homepage": "https://onOrca.dev",
             "id": 1183888342,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:42:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:56:57Z",
+            "open_issues": 4810,
             "owner": "stablyai",
             "repo": "orca",
-            "stars": 55890
+            "stars": 56312,
+            "topics": [
+              "ade",
+              "agent-ide",
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "codex",
+              "cursor-agent",
+              "devtools",
+              "ghostty",
+              "ide",
+              "mobile-app",
+              "opencode",
+              "orchestration",
+              "parallel-agents",
+              "pi",
+              "terminal",
+              "worktrees",
+              "yc-backed"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -42,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+            "homepage": "https://oh-my-codex.dev",
             "id": 1148052330,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:08:43Z",
+            "license": null,
+            "last_commit": "2026-08-28T20:59:09Z",
+            "open_issues": 2,
             "owner": "Yeachan-Heo",
             "repo": "oh-my-codex",
-            "stars": 32889
+            "stars": 32895,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -58,12 +106,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+            "homepage": "https://nanoclaw.dev",
             "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:49:50Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:32:27Z",
+            "open_issues": 1068,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30627
+            "stars": 30634,
+            "topics": [
+              "ai-agents",
+              "ai-assistant",
+              "claude-code",
+              "claude-skills",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -74,12 +133,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+            "homepage": "https://www.vibekanban.com/",
             "id": 1002125012,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T09:17:34Z",
+            "open_issues": 533,
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27943
+            "stars": 27948,
+            "topics": [
+              "agent",
+              "ai-agents",
+              "kanban",
+              "management",
+              "task-manager"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -90,12 +160,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+            "homepage": "https://superset.sh",
             "id": 1080370450,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:38:42Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T05:04:07Z",
+            "open_issues": 581,
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 13455
+            "stars": 13470,
+            "topics": [
+              "ade",
+              "agent",
+              "agent-orchestration",
+              "ai-agents",
+              "ai-coding",
+              "claude-code",
+              "cli",
+              "codex",
+              "coding-agents",
+              "cursor-agent",
+              "developer-tools",
+              "devtools",
+              "ide",
+              "macos",
+              "opencode",
+              "orchestration",
+              "parallel-agents",
+              "terminal",
+              "worktrees",
+              "yc-backed"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -106,12 +202,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()",
+            "homepage": null,
             "id": 1184397362,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-29T20:16:27Z",
+            "open_issues": 139,
             "owner": "mattpocock",
             "repo": "sandcastle",
-            "stars": 7711
+            "stars": 7716,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -122,12 +223,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+            "homepage": null,
             "id": 1171111467,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T18:09:18Z",
+            "open_issues": 249,
             "owner": "microsoft",
             "repo": "agent-governance-toolkit",
-            "stars": 6141
+            "stars": 6143,
+            "topics": [
+              "agent-framework",
+              "ai-agents",
+              "ai-safety",
+              "compliance",
+              "governance",
+              "microsoft",
+              "owasp",
+              "policy-engine",
+              "python",
+              "security",
+              "trust",
+              "zero-trust"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -138,12 +257,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Squad: AI agent teams for any project",
+            "homepage": "https://bradygaster.github.io/squad/",
             "id": 1151205052,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T11:42:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:31:33Z",
+            "open_issues": 115,
             "owner": "bradygaster",
             "repo": "squad",
-            "stars": 3136
+            "stars": 3137,
+            "topics": [
+              "ai",
+              "cli",
+              "copilot",
+              "developer-tools",
+              "github-copilot",
+              "multi-agent",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -154,12 +286,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source local workbench for multi-agent software development.",
+            "homepage": "https://helmor.ai",
             "id": 1199028956,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T02:25:10Z",
+            "open_issues": 45,
             "owner": "dohooo",
             "repo": "helmor",
-            "stars": 1295
+            "stars": 1295,
+            "topics": [
+              "agent-orchestration",
+              "ai",
+              "claude-code",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "git-worktree",
+              "local-first",
+              "macos",
+              "multi-agent",
+              "open-source",
+              "software-development"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -170,12 +320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your mission control center for a swarm of Ai agents.",
+            "homepage": "https://openswarm.com",
             "id": 1181094269,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T18:46:19Z",
+            "open_issues": 30,
             "owner": "openswarm-ai",
             "repo": "openswarm",
-            "stars": 804
+            "stars": 804,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -186,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AOSE — An Office Suite Built for Agent Collaboration. Docs, tables, slides, flowcharts, canvas, and video — all editable by both humans and AI agents.",
+            "homepage": "https://agentofficesuite.com",
             "id": 1187690989,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-03T11:33:56Z",
+            "open_issues": 0,
             "owner": "manpoai",
             "repo": "AgentOfficeSuite",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -202,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Governance-first AI agent orchestration platform",
+            "homepage": null,
             "id": 1171122397,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-21T00:18:04Z",
+            "open_issues": 4,
             "owner": "GoetzKohlberg",
             "repo": "sidjua",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -218,12 +383,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The authorization kernel for AI agents. Block, allow, or escalate agent tool calls with YAML rules — deterministic-first, LLM fallback.",
+            "homepage": "https://veto.so",
             "id": 1126739707,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-18T07:20:15Z",
+            "open_issues": 1,
             "owner": "PlawIO",
             "repo": "veto",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "agent-authorization",
+              "ai-agents",
+              "ai-safety",
+              "anthropic",
+              "cli",
+              "guardrails",
+              "langchain",
+              "llm",
+              "open-source",
+              "openai",
+              "policy",
+              "python",
+              "security",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         }
@@ -240,12 +425,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+            "homepage": "https://onOrca.dev",
             "id": 1183888342,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:42:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:56:57Z",
+            "open_issues": 4810,
             "owner": "stablyai",
             "repo": "orca",
-            "stars": 55890
+            "stars": 56312,
+            "topics": [
+              "ade",
+              "agent-ide",
+              "ai-agents",
+              "claude-code",
+              "cli",
+              "codex",
+              "cursor-agent",
+              "devtools",
+              "ghostty",
+              "ide",
+              "mobile-app",
+              "opencode",
+              "orchestration",
+              "parallel-agents",
+              "pi",
+              "terminal",
+              "worktrees",
+              "yc-backed"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -256,12 +465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+            "homepage": "https://multica.ai",
             "id": 1133707766,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T10:00:35Z",
+            "open_issues": 1378,
             "owner": "multica-ai",
             "repo": "multica",
-            "stars": 48122
+            "stars": 48161,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -272,12 +486,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+            "homepage": "https://oh-my-codex.dev",
             "id": 1148052330,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T12:08:43Z",
+            "license": null,
+            "last_commit": "2026-08-28T20:59:09Z",
+            "open_issues": 2,
             "owner": "Yeachan-Heo",
             "repo": "oh-my-codex",
-            "stars": 32889
+            "stars": 32895,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -288,12 +507,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get 10X more out of Claude Code, Codex or any coding agent",
+            "homepage": "https://www.vibekanban.com/",
             "id": 1002125012,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-24T09:17:34Z",
+            "open_issues": 533,
             "owner": "BloopAI",
             "repo": "vibe-kanban",
-            "stars": 27943
+            "stars": 27948,
+            "topics": [
+              "agent",
+              "ai-agents",
+              "kanban",
+              "management",
+              "task-manager"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -304,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gas Town - multi-agent workspace manager",
+            "homepage": null,
             "id": 1117184424,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-19T04:16:45Z",
+            "open_issues": 444,
             "owner": "gastownhall",
             "repo": "gastown",
-            "stars": 17821
+            "stars": 17828,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -320,12 +555,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.",
+            "homepage": "https://superset.sh",
             "id": 1080370450,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:38:42Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T05:04:07Z",
+            "open_issues": 581,
             "owner": "superset-sh",
             "repo": "superset",
-            "stars": 13455
+            "stars": 13470,
+            "topics": [
+              "ade",
+              "agent",
+              "agent-orchestration",
+              "ai-agents",
+              "ai-coding",
+              "claude-code",
+              "cli",
+              "codex",
+              "coding-agents",
+              "cursor-agent",
+              "developer-tools",
+              "devtools",
+              "ide",
+              "macos",
+              "opencode",
+              "orchestration",
+              "parallel-agents",
+              "terminal",
+              "worktrees",
+              "yc-backed"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -336,12 +597,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()",
+            "homepage": null,
             "id": 1184397362,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-29T20:16:27Z",
+            "open_issues": 139,
             "owner": "mattpocock",
             "repo": "sandcastle",
-            "stars": 7711
+            "stars": 7716,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -352,12 +618,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source local workbench for multi-agent software development.",
+            "homepage": "https://helmor.ai",
             "id": 1199028956,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T02:25:10Z",
+            "open_issues": 45,
             "owner": "dohooo",
             "repo": "helmor",
-            "stars": 1295
+            "stars": 1295,
+            "topics": [
+              "agent-orchestration",
+              "ai",
+              "claude-code",
+              "codex",
+              "coding-agents",
+              "developer-tools",
+              "git-worktree",
+              "local-first",
+              "macos",
+              "multi-agent",
+              "open-source",
+              "software-development"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -368,12 +652,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your mission control center for a swarm of Ai agents.",
+            "homepage": "https://openswarm.com",
             "id": 1181094269,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-25T18:46:19Z",
+            "open_issues": 30,
             "owner": "openswarm-ai",
             "repo": "openswarm",
-            "stars": 804
+            "stars": 804,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         }
@@ -390,12 +679,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+            "homepage": "https://openclaw.ai",
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:44:07Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T05:04:58Z",
+            "open_issues": 5729,
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387916
+            "stars": 387951,
+            "topics": [
+              "ai",
+              "assistant",
+              "crustacean",
+              "molty",
+              "openclaw",
+              "own-your-data",
+              "personal"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -406,12 +708,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent that grows with you",
+            "homepage": "https://hermes-agent.nousresearch.com",
             "id": 1024554267,
             "language": "Python",
-            "last_commit": "2026-08-28T15:15:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:39:01Z",
+            "open_issues": 37204,
             "owner": "NousResearch",
             "repo": "hermes-agent",
-            "stars": 237645
+            "stars": 237809,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "claude",
+              "claude-code",
+              "codex",
+              "hermes",
+              "hermes-agent",
+              "llm",
+              "nous-research",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -422,12 +743,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+            "homepage": "https://dify.ai",
             "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:05:45Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:58:58Z",
+            "open_issues": 977,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 153760
+            "stars": 153790,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agentic-framework",
+              "agentic-workflow",
+              "ai",
+              "automation",
+              "claude",
+              "deepseek",
+              "genai",
+              "gpt",
+              "llm",
+              "low-code",
+              "mcp",
+              "nextjs",
+              "no-code",
+              "openai",
+              "python",
+              "skills",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -438,12 +784,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Build AI Agents, Visually",
+            "homepage": "https://flowiseai.com",
             "id": 621803253,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T12:38:19Z",
+            "open_issues": 1046,
             "owner": "FlowiseAI",
             "repo": "Flowise",
-            "stars": 55402
+            "stars": 55401,
+            "topics": [
+              "agentic-ai",
+              "agentic-workflow",
+              "agents",
+              "artificial-intelligence",
+              "chatbot",
+              "chatgpt",
+              "javascript",
+              "langchain",
+              "large-language-models",
+              "low-code",
+              "multiagent-systems",
+              "no-code",
+              "openai",
+              "rag",
+              "react",
+              "typescript",
+              "workflow-automation"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -454,12 +823,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build, run, and manage agent platforms.",
+            "homepage": "https://docs.agno.com",
             "id": 488641606,
             "language": "Python",
-            "last_commit": "2026-08-28T15:43:15Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:53:01Z",
+            "open_issues": 1273,
             "owner": "agno-agi",
             "repo": "agno",
-            "stars": 41957
+            "stars": 41960,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "developer-tools",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -470,12 +850,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK",
+            "homepage": "https://nanoclaw.dev",
             "id": 1146738089,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:49:50Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:32:27Z",
+            "open_issues": 1068,
             "owner": "nanocoai",
             "repo": "nanoclaw",
-            "stars": 30627
+            "stars": 30634,
+            "topics": [
+              "ai-agents",
+              "ai-assistant",
+              "claude-code",
+              "claude-skills",
+              "openclaw"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -486,12 +877,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+            "homepage": "https://www.sim.ai",
             "id": 912559512,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T10:12:37Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T05:05:02Z",
+            "open_issues": 311,
             "owner": "simstudioai",
             "repo": "sim",
-            "stars": 29486
+            "stars": 29489,
+            "topics": [
+              "agent-workflow",
+              "agentic-workflow",
+              "agents",
+              "ai",
+              "aiagents",
+              "anthropic",
+              "artificial-intelligence",
+              "automation",
+              "chatbot",
+              "deepseek",
+              "gemini",
+              "low-code",
+              "nextjs",
+              "no-code",
+              "openai",
+              "rag",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -502,12 +917,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+            "homepage": "https://mastra.ai",
             "id": 839037098,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:30:00Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:15:57Z",
+            "open_issues": 544,
             "owner": "mastra-ai",
             "repo": "mastra",
-            "stars": 27544
+            "stars": 27548,
+            "topics": [
+              "agents",
+              "ai",
+              "chatbots",
+              "evals",
+              "javascript",
+              "llm",
+              "mcp",
+              "nextjs",
+              "nodejs",
+              "reactjs",
+              "tts",
+              "typescript",
+              "workflows"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -518,12 +952,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-first knowledge base and startup OS",
+            "homepage": null,
             "id": 1200101802,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T17:52:55Z",
+            "open_issues": 78,
             "owner": "cabinetai",
             "repo": "cabinet",
-            "stars": 2855
+            "stars": 2857,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -534,12 +973,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source self-hosted AI agent runtime and multi-agent framework for autonomous agent swarms. Agent memory, MCP tools, schedules, delegation, and 23+ LLM providers (Claude, GPT, Gemini, OpenRouter, Ollama). A practical Claude Code and LangChain alternative.",
+            "homepage": "https://www.swarmclaw.ai",
             "id": 1161242607,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T20:58:13Z",
+            "open_issues": 15,
             "owner": "swarmclawai",
             "repo": "swarmclaw",
-            "stars": 653
+            "stars": 654,
+            "topics": [
+              "agent-framework",
+              "agent-memory",
+              "agent-runtime",
+              "agent-swarm",
+              "agents",
+              "ai",
+              "ai-agent-framework",
+              "ai-agents",
+              "autonomous-agents",
+              "claude",
+              "claude-code-alternative",
+              "langchain-alternative",
+              "llm",
+              "mcp",
+              "mcp-server",
+              "multi-agent",
+              "ollama",
+              "openclaw",
+              "orchestration",
+              "self-hosted"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -550,12 +1015,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AOSE — An Office Suite Built for Agent Collaboration. Docs, tables, slides, flowcharts, canvas, and video — all editable by both humans and AI agents.",
+            "homepage": "https://agentofficesuite.com",
             "id": 1187690989,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-03T11:33:56Z",
+            "open_issues": 0,
             "owner": "manpoai",
             "repo": "AgentOfficeSuite",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -566,12 +1036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Governance-first AI agent orchestration platform",
+            "homepage": null,
             "id": 1171122397,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-21T00:18:04Z",
+            "open_issues": 4,
             "owner": "GoetzKohlberg",
             "repo": "sidjua",
-            "stars": 26
+            "stars": 26,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         }
@@ -588,12 +1063,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The open-source app everyone uses to manage agents at work",
+            "homepage": "https://paperclip.ing",
             "id": 1170821064,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:40:51Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T05:02:17Z",
+            "open_issues": 5428,
             "owner": "paperclipai",
             "repo": "paperclip",
-            "stars": 79552
+            "stars": 79585,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -604,12 +1084,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "homepage": "https://crewai.com",
             "id": 710601088,
             "language": "Python",
-            "last_commit": "2026-08-28T13:31:46Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:36:31Z",
+            "open_issues": 767,
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57740
+            "stars": 57770,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "aiagentframework",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -620,12 +1111,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Squad: AI agent teams for any project",
+            "homepage": "https://bradygaster.github.io/squad/",
             "id": 1151205052,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T11:42:31Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:31:33Z",
+            "open_issues": 115,
             "owner": "bradygaster",
             "repo": "squad",
-            "stars": 3136
+            "stars": 3137,
+            "topics": [
+              "ai",
+              "cli",
+              "copilot",
+              "developer-tools",
+              "github-copilot",
+              "multi-agent",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         },
@@ -636,12 +1140,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Culture turns isolated stochastic agents into cooperative, inspectable, improvable artificial colleagues.",
+            "homepage": "https://culture.dev/",
             "id": 1186470444,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-23T14:07:07Z",
+            "open_issues": 37,
             "owner": "agentculture",
             "repo": "culture",
-            "stars": 113
+            "stars": 113,
+            "topics": [
+              "agent-orchestration",
+              "agents",
+              "ai-first",
+              "ai-first-development",
+              "local-first",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-28T15:44:18.738Z"
         }
@@ -660,12 +1176,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+                "homepage": null,
                 "id": 1171111467,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:09:18Z",
+                "open_issues": 249,
                 "owner": "microsoft",
                 "repo": "agent-governance-toolkit",
-                "stars": 6141
+                "stars": 6143,
+                "topics": [
+                  "agent-framework",
+                  "ai-agents",
+                  "ai-safety",
+                  "compliance",
+                  "governance",
+                  "microsoft",
+                  "owasp",
+                  "policy-engine",
+                  "python",
+                  "security",
+                  "trust",
+                  "zero-trust"
+                ]
               },
               "first_seen": "2026-08-28T15:44:18.738Z"
             },
@@ -676,12 +1210,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The authorization kernel for AI agents. Block, allow, or escalate agent tool calls with YAML rules — deterministic-first, LLM fallback.",
+                "homepage": "https://veto.so",
                 "id": 1126739707,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-18T07:20:15Z",
+                "open_issues": 1,
                 "owner": "PlawIO",
                 "repo": "veto",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "agent-authorization",
+                  "ai-agents",
+                  "ai-safety",
+                  "anthropic",
+                  "cli",
+                  "guardrails",
+                  "langchain",
+                  "llm",
+                  "open-source",
+                  "openai",
+                  "policy",
+                  "python",
+                  "security",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:44:18.738Z"
             }
@@ -695,17 +1249,33 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:44:18.738Z",
+    "last_updated": "2026-08-29T05:05:03.792Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome-style curated list and directory for multi-agent orchestration.",
+      "homepage": "https://openorchestrators.org/",
       "id": 1205236289,
       "language": "TypeScript",
-      "last_commit": "2026-08-28T10:50:54Z",
+      "license": null,
+      "last_commit": "2026-08-28T22:03:15Z",
+      "open_issues": 21,
       "owner": "Agent-Analytics",
       "repo": "awesome-multi-agent-orchestrators",
-      "stars": 72
+      "stars": 73,
+      "topics": [
+        "agent-coordination",
+        "agent-orchestration",
+        "agentic-ai",
+        "ai-agents",
+        "ai-orchestration",
+        "awesome-list",
+        "coding-agents",
+        "git-worktree",
+        "multi-agent-systems",
+        "parallel-agents"
+      ]
     },
-    "original_repository_sha": "586e030fdb9a784d3b6e7709f2a0e36112c8ea66",
+    "original_repository_sha": "6fb67f096d4bf70fd05db3d4affe2acbd14fc52f",
     "enhanced_repository": "enhansome/enhansome-multi-agent-orchestrators",
     "enhanced_repository_description": null,
     "title": "Awesome Multi-Agent Orchestrators with stars"
